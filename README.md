@@ -32,3 +32,9 @@ Technical Skills – Requires data analysis and visualization expertise.
 
 🚀 Conclusion
 PhonePe data exploration and visualization provide powerful insights for business growth, risk management, and user engagement. With the right tools and responsible data handling, we can continue innovating in India’s fintech revolution.
+
+
+PhonePe Analysis Project
+This is a sample screenshot of the dashboard:
+
+<img width="955" height="416" alt="image" src="https://github.com/user-attachments/assets/d4229598-410c-43cf-889e-41ebef6a5485" />
